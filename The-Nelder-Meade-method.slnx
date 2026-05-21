@@ -1,3 +1,4 @@
 <Solution>
+  <Project Path="NelderMeadMethod.Tests/NelderMeadMethod.Tests.csproj" />
   <Project Path="The-Nelder-Meade-method/The-Nelder-Meade-method.csproj" />
 </Solution>

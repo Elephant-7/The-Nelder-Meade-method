@@ -8,4 +8,8 @@
     <Nullable>enable</Nullable>
   </PropertyGroup>
 
+  <ItemGroup>
+    <PackageReference Include="NTDLS.ExpressionParser" Version="1.5.8" />
+  </ItemGroup>
+
 </Project>
